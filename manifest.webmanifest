@@ -1,0 +1,19 @@
+{
+  "name": "Tibet GIS Names Map",
+  "short_name": "Tibet GIS",
+  "description": "Tibetan-first administrative names map for Tibet Autonomous Region.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef1ed",
+  "theme_color": "#1f4e3d",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
